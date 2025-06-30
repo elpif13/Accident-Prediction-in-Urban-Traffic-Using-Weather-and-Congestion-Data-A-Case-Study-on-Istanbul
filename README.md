@@ -32,7 +32,7 @@ To run this project locally, follow these steps:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/traffic-accident-prediction.git
+git clone [https://github.com/yourusername/traffic-accident-prediction.git](https://github.com/elpif13/Accident-Prediction-in-Urban-Traffic-Using-Weather-and-Congestion-Data-A-Case-Study-on-Istanbul.git)
 ```
 ### 2. Install dependencies
 ```bash
