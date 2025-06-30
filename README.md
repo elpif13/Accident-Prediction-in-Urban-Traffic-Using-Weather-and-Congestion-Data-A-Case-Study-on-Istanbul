@@ -35,13 +35,13 @@ To run this project locally, follow these steps:
 git clone https://github.com/yourusername/traffic-accident-prediction.git
 ```
 ### 2. Install dependencies
-
+```bash
 pip install -r requirements.txt
-
+```
 ### 3. Run the Jupyter Notebook
-
+```bash
 jupyter notebook
-
+```
 ## 📈 Results
 
 The model achieved an accuracy of 77.76% in predicting accident occurrence. The results were promising, and future work will focus on refining the model, incorporating additional features such as rush hours, weekends, and weather conditions, and testing more advanced machine learning models to increase accuracy.
