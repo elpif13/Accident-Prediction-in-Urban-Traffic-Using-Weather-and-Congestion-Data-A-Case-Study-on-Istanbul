@@ -48,9 +48,9 @@ The model achieved an accuracy of 77.76% in predicting accident occurrence. The 
 
 ## 🔮 Future Work
 
-- ** Integrating additional features like weather conditions, rush hour periods, and weekend vs weekday traffic patterns.
-- ** Experimenting with more sophisticated deep learning models to improve prediction accuracy.
-- ** Further data preprocessing and feature engineering to better capture the relationships between traffic patterns and accidents.
+- **Integrating additional features like weather conditions, rush hour periods, and weekend vs weekday traffic patterns.
+- **Experimenting with more sophisticated deep learning models to improve prediction accuracy.
+- **Further data preprocessing and feature engineering to better capture the relationships between traffic patterns and accidents.
 
 
 
