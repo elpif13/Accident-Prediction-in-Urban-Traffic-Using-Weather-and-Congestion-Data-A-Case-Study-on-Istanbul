@@ -6,8 +6,8 @@ Welcome to the **Traffic Accident Prediction** project! This project uses machin
 
 ## 📈 Original Dataset Links
 
-Traffic Density: https://data.ibb.gov.tr/dataset/hourly-traffic-density-data-set
-Traffic Announcement: https://data.ibb.gov.tr/dataset/ulasim-yonetim-merkezi-trafik-duyuru-verisi
+- **Traffic Density**: https://data.ibb.gov.tr/dataset/hourly-traffic-density-data-set
+- **Traffic Announcement**: https://data.ibb.gov.tr/dataset/ulasim-yonetim-merkezi-trafik-duyuru-verisi
 ## 🧠 **Methodology**
 
 This project applies a binary classification approach to predict whether an accident occurs or not in a given time period. Initially, the problem was approached as a multi-class classification task, but it was later simplified to a binary classification problem due to low accuracy in the multi-class setup.
