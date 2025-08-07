@@ -12,7 +12,7 @@ Welcome to the **Traffic Accident Prediction** project! This project uses machin
 
 This project applies a binary classification approach to predict whether an accident occurs or not in a given time period. Initially, the problem was approached as a multi-class classification task, but it was later simplified to a binary classification problem due to low accuracy in the multi-class setup.
 
-The dataset includes information about vehicle counts, average speed, and traffic density, and was preprocessed to focus on relevant features for accident prediction. Several models were tested, including **neural networks** and **gradient-based methods**. The final model achieved an accuracy of **77.76%**, but there is room for improvement through further refinement and advanced techniques.
+The dataset includes information about vehicle counts, average speed, and traffic density, and was preprocessed to focus on relevant features for accident prediction. Several models were tested, including **neural networks** and **gradient-based methods**. The final model achieved an accuracy of **77.95%**, but there is room for improvement through further refinement and advanced techniques.
 
 ## 📊 **Features**
 
